@@ -1,0 +1,8 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "lib")(type "KiCad")(uri "/home/zyl/Programming/Keyboards/Paintbrush/zyl_paintbrush_board/hardware/v6/lib")(options "")(descr ""))
+  (lib (name "promicro")(type "KiCad")(uri "/home/zyl/Programming/Keyboards/Paintbrush/zyl_paintbrush_board/hardware/v6/lib/ProMicroKiCad/promicro.pretty")(options "")(descr ""))
+  (lib (name "NiceView")(type "KiCad")(uri "/home/zyl/Programming/Keyboards/Paintbrush/zyl_paintbrush_board/hardware/v6/lib/NiceView/NiceView.pretty")(options "")(descr ""))
+  (lib (name "small-paintbrush")(type "KiCad")(uri "/home/zyl/Programming/Keyboards/Paintbrush/zyl_paintbrush_board/hardware/v6/lib/small-paintbrush.pretty")(options "")(descr ""))
+  (lib (name "zyls")(type "KiCad")(uri "/home/zyl/Programming/Keyboards/Paintbrush/zyl_paintbrush_board/hardware/v6/lib/zyls.pretty")(options "")(descr ""))
+)

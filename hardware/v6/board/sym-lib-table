@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "promicro")(type "Legacy")(uri "/home/zyl/Programming/Keyboards/Paintbrush/zyl_paintbrush_board/hardware/v6/lib/ProMicroKiCad/promicro_library/promicro.lib")(options "")(descr ""))
+  (lib (name "nice_view")(type "KiCad")(uri "/home/zyl/Programming/Keyboards/Paintbrush/zyl_paintbrush_board/hardware/v6/lib/NiceView/NiceView_lib/nice_view.kicad_sym")(options "")(descr ""))
+)
